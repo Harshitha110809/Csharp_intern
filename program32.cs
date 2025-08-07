@@ -14,7 +14,7 @@ namespace program32
 
             for (int i = 0; i < n; i++)
             {
-                Console.WriteLine($"enter mark {i+1} :");
+                Console.WriteLine($"enter marks {i+1} :");
                 marks.Add(int.Parse(Console.ReadLine()));
 
             }
